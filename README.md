@@ -1,4 +1,5 @@
-#PDFs zusammenmergen
+# PDFs mergen
+
 ```bash
 pip install pyPDF2
 ```
